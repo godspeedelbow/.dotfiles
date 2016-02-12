@@ -1,12 +1,16 @@
 .atom
 =============
 
-ln -s ~/.dotfiles/.atom/* ~/.atom/
-
 Install
 -------------
 
-- Create symlink
+- Create Atom folder: `mkdir ~/.atom`
+- Create symlink: `ln -s ~/.dotfiles/.atom/* ~/.atom/``
+
+Update packages
+-------------
+
 - To make a snapshot, run `make packages.list`.
 - To update packages, run `make install-all-packages`.
-- Makefile credits: https://discuss.atom.io/t/installed-packages-list-into-single-file/12227/10
+
+Credits: https://discuss.atom.io/t/installed-packages-list-into-single-file/12227/10
