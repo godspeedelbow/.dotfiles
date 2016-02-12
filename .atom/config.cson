@@ -1,0 +1,30 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "16af0156-0f2e-422c-a53f-58e27abff670"
+  "autocomplete-plus": {}
+  core:
+    disabledPackages: [
+      "sync-settings"
+      "wrap-guide"
+    ]
+    themes: [
+      "atom-dark-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontFamily: "Source Code Pro"
+    invisibles: {}
+    showIndentGuide: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "f6adda5b-9647-f3ba-4db6-4f52ef4a7551"
+  "git-plus": {}
+  linter:
+    showErrorInline: false
+  "linter-eslint": {}
+  metrics:
+    userId: "4f804e82401d933a88d358646a99317ffbbca1cf"
+  "sync-settings":
+    _analyticsUserId: "de845a63-04b1-43cc-a7c1-b3f36c923f06"
+  welcome:
+    showOnStartup: false
