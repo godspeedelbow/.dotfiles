@@ -1,5 +1,21 @@
-install-all-packages:
-	cat packages.list | xargs apm install
-
-packages.list: packages/*/
-	ls packages/  | grep -v README.md > packages.list
+Sublime-Style-Column-Selection
+atom-beautify
+auto-detect-indentation
+autoclose-html
+docblockr
+dracula-theme
+emmet
+file-type-icons
+git-plus
+highlight-line
+highlight-selected
+linter
+linter-eslint
+minimap
+monokai
+monokai-seti
+monokai-slate
+open-recent
+spacegray-dark-ui
+sync-settings
+trailing-spaces

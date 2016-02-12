@@ -16,5 +16,5 @@
 
 '.source.js':
   'console.log':
-    'prefix': 'cl2'
+    'prefix': 'cl'
     'body': 'console.log(\'***** $1\', $1)'

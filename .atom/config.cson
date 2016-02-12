@@ -13,6 +13,7 @@
     ]
   editor:
     fontFamily: "Source Code Pro"
+    fontSize: 13
     invisibles: {}
     showIndentGuide: true
     tabLength: 4
