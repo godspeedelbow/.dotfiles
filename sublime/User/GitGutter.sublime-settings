@@ -1,0 +1,5 @@
+{
+  // When using non_blocking mode, delay update of gutter icons by the
+  // following amount (in milliseconds).
+  "debounce_delay": 300
+}
