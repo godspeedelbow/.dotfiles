@@ -7,6 +7,7 @@
       "sync-settings"
       "wrap-guide"
     ]
+    telemetryConsent: "limited"
     themes: [
       "atom-dark-ui"
       "one-dark-syntax"
