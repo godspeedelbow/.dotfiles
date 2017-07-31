@@ -4,7 +4,7 @@ dotfiles-public
 git
 -------------
 
-- Create symlink: `ln -s ~/code/dotfiles-public/.gitconfig ~/.gitconfig`
+- Create symlink: `ln -s ~/dotfiles-public/.gitconfig ~/.gitconfig`
 
 iTerm
 -------------
