@@ -1,12 +1,20 @@
-.dotfiles
+dotfiles-public
 =============
+
+git
+-------------
+
+- Create symlink: `ln -s ~/code/dotfiles-public/.gitconfig ~/.gitconfig`
+
+iTerm
+-------------
+
+- Go to `Settings > General`. Check `Load preferences from a custom folder or URL:`, select the path to the `~/dotfiles-public/iterm`
 
 .sublime
 -------------
 
-**Setup**
-
-- Create symlink: `ln -s ~/.dotfiles/sublime/User/ ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User`
+- Create symlink: `ln -s ~/dotfiles-public/sublime/User/ ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User`
 
 Credits: https://chrisarcand.com/sublime-text-settings-and-dotfiles/
 
@@ -16,7 +24,7 @@ Credits: https://chrisarcand.com/sublime-text-settings-and-dotfiles/
 **Setup**
 
 - Create Atom folder: `mkdir ~/.atom`
-- Create symlink: `ln -s ~/.dotfiles/.atom/* ~/.atom/`
+- Create symlink: `ln -s ~/dotfiles-public/.atom/* ~/.atom/`
 
 **Update packages**
 
