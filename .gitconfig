@@ -43,6 +43,11 @@
     lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
     ls = ls-files
 
+    unstage=reset HEAD --
+    undo=checkout HEAD~1 --
+    uncommit=reset HEAD~1 --soft
+    amend=commit --amend
+
     # Show files ignored by git:
     ign = ls-files -o -i --exclude-standard
 [push]
