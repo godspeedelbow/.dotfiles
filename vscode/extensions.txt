@@ -1,0 +1,12 @@
+HookyQR.beautify
+angryobject.react-pure-to-class-vscode
+burkeholland.simple-react-snippets
+capaj.vscode-exports-autocomplete
+christian-kohler.npm-intellisense
+dbaeumer.vscode-eslint
+eamodio.gitlens
+gottfired.css2react
+kumar-harsh.graphql-for-vscode
+robertohuertasm.vscode-icons
+whizkydee.material-palenight-theme
+zhuangtongfa.Material-theme

@@ -14,7 +14,14 @@ iTerm
 VSCode
 -------------
 
+### `settings.json`
+
 - Create symlink: `ln -s ~/dotfiles-public/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json`
+
+### Extensions
+
+- Install extensions: `~/dotfiles-public/vscode/install-extensions`
+- Save installed extensions: `~/dotfiles-public/vscode/dump-extensions`
 
 Sublime
 -------------
