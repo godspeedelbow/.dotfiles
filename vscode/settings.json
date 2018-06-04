@@ -1,0 +1,53 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.minimap.enabled": false,
+    "editor.parameterHints": true,
+    "editor.renderIndentGuides": true,
+    "editor.renderWhitespace": "none",
+    "editor.tabSize": 2,
+    "eslint.autoFixOnSave": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "git.confirmSync": false,
+    "window.zoomLevel": 1,
+    "emmet.useNewEmmet": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#ff0000"
+    },
+    "typescript.check.npmIsInstalled": false,
+
+    // don't show recent change in file
+    "gitlens.codeLens.locations": [],
+    "vsicons.dontShowNewVersionMessage": true,
+    "extensions.ignoreRecommendations": false,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "gitlens.codeLens.scopes": [],
+    "gitlens.keymap": "chorded",
+    "workbench.editor.showTabs": true,
+    "workbench.sideBar.location": "left",
+    "editor.fontFamily": "Input, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": false,
+    "gitlens.historyExplorer.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "files.associations": {
+        "*.mjs": "javascript"
+    }
+}

@@ -11,14 +11,19 @@ iTerm
 
 - Go to `Settings > General`. Check `Load preferences from a custom folder or URL:`, select the path to the `~/dotfiles-public/iterm`
 
-.sublime
+VSCode
+-------------
+
+- Create symlink: `ln -s ~/dotfiles-public/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json`
+
+Sublime
 -------------
 
 - Create symlink: `ln -s ~/dotfiles-public/sublime/User/ ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User`
 
 Credits: https://chrisarcand.com/sublime-text-settings-and-dotfiles/
 
-.atom
+Atom
 -------------
 
 **Setup**
